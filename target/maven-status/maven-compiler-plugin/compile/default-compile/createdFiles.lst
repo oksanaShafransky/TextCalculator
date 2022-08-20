@@ -1,0 +1,5 @@
+com/textcalculator/CalculatorExecutor.class
+com/textcalculator/CalcExpression.class
+com/textcalculator/OperatorInterface.class
+com/textcalculator/CalculatorInputParser.class
+com/textcalculator/TextCalculatorMain.class
