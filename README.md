@@ -1,0 +1,2 @@
+# TextCalculator
+Calculate mathematical expressions
