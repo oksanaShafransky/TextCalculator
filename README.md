@@ -25,3 +25,7 @@ To run the calculator:
 1. Go to the input.txt file under resources folder and define expressions.
 2. Run TextCalculatorMain.java.
 
+To run the tests:
+1. Go to the src/test/java/test.
+2. Run TextCalculatorText.java
+
