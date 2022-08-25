@@ -21,3 +21,7 @@ i += y
 Output:
 (i=37,j=1,x=6,y=35)
 
+To run the calculator:
+1. Go to the input.txt file under resources folder and define expressions.
+2. Run TextCalculatorMain.java.
+
