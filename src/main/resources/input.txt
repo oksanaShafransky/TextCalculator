@@ -1,0 +1,6 @@
+i = 0
+jok = i++ + 1
+i -= jok
+yy = 5 + 3 * 10
+t = yy / jok
+i += yy

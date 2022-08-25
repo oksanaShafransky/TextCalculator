@@ -1,5 +1,11 @@
-com/textcalculator/CalculatorExecutor.class
-com/textcalculator/CalcExpression.class
-com/textcalculator/OperatorInterface.class
-com/textcalculator/CalculatorInputParser.class
+com/textcalculator/evaluables/Expression$1.class
+com/textcalculator/evaluables/Evaluable.class
+com/textcalculator/exceptions/InvalidStatementException.class
+com/textcalculator/evaluables/Value.class
+com/textcalculator/Calculator.class
 com/textcalculator/TextCalculatorMain.class
+com/textcalculator/evaluables/Expression.class
+com/textcalculator/exceptions/UndeclaredVariableException.class
+com/textcalculator/ExpressionBuilder.class
+com/textcalculator/evaluables/Variable.class
+com/textcalculator/evaluables/Operation.class

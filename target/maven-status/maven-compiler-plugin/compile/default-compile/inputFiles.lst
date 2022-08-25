@@ -1,5 +1,10 @@
-/Users/oksana.shafransky/projects/TextCalculator/src/main/java/com/textcalculator/OperatorInterface.java
 /Users/oksana.shafransky/projects/TextCalculator/src/main/java/com/textcalculator/TextCalculatorMain.java
-/Users/oksana.shafransky/projects/TextCalculator/src/main/java/com/textcalculator/CalculatorInputParser.java
-/Users/oksana.shafransky/projects/TextCalculator/src/main/java/com/textcalculator/CalculatorExecutor.java
-/Users/oksana.shafransky/projects/TextCalculator/src/main/java/com/textcalculator/CalcExpression.java
+/Users/oksana.shafransky/projects/TextCalculator/src/main/java/com/textcalculator/evaluables/Evaluable.java
+/Users/oksana.shafransky/projects/TextCalculator/src/main/java/com/textcalculator/evaluables/Variable.java
+/Users/oksana.shafransky/projects/TextCalculator/src/main/java/com/textcalculator/exceptions/InvalidStatementException.java
+/Users/oksana.shafransky/projects/TextCalculator/src/main/java/com/textcalculator/evaluables/Operation.java
+/Users/oksana.shafransky/projects/TextCalculator/src/main/java/com/textcalculator/evaluables/Expression.java
+/Users/oksana.shafransky/projects/TextCalculator/src/main/java/com/textcalculator/ExpressionBuilder.java
+/Users/oksana.shafransky/projects/TextCalculator/src/main/java/com/textcalculator/exceptions/UndeclaredVariableException.java
+/Users/oksana.shafransky/projects/TextCalculator/src/main/java/com/textcalculator/Calculator.java
+/Users/oksana.shafransky/projects/TextCalculator/src/main/java/com/textcalculator/evaluables/Value.java
