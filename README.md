@@ -7,7 +7,7 @@ Output: At the end of evaluating the series, the value of each variable is print
 
 * This text calculator calculates multiple expressions.
 * The expressions should contain on the left side a variable (can be string of [a-z]), assignment (=,+=,-=)
-* and on the left any expression using existing variables, pre-post-fix (++,--) and numerics ([0-9]).
+* and on the right side any expression using existing variables, pre-post-fix (++,--) and numerics ([0-9]).
 * Supported operations: addition, subtraction, multiplication, division, pre-increment, post-increment, pre-decrement, post-decrement.
 
 
