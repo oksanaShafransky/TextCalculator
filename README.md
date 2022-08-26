@@ -2,7 +2,9 @@
 Calculate mathematical expressions
 
 Objective: Implement a text based calculator application.
+
 Input: The input is a series of assignment expressions. The syntax is a subset of Java numeric expressions and operators.
+
 Output: At the end of evaluating the series, the value of each variable is printed out.
 
 * This text calculator calculates multiple expressions.
